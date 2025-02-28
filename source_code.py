@@ -14,6 +14,9 @@ def is_valid_move(grid,row, col, number):
         return False
   return True
 
+
+
+
 def solve(grid, row, col):
   if col == 9:
     if row == 8:
