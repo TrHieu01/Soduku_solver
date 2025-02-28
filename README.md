@@ -1,7 +1,7 @@
 # Sodoku_solver
 -This is my mini project to solve Sodoku game
 
--You can you file #source_code.py to sovle  and use file #solve.py to solve the Sodoku 
+-You can use file #source_code.py to sovle  and use file #solve.py to solve the Sodoku 
 
 -I also create some cases in file #test_case 
 
